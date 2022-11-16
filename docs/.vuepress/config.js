@@ -5,7 +5,7 @@ module.exports = {
             { rel: 'icon', href: 'logo_ico.png' }
         ]
     ],
-    title: '',
+    title: '-Guide-',
     description: 'A Easy Guide for Akebi',
     nextLinks: true,
     prevLinks: true,
