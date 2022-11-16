@@ -1,5 +1,11 @@
 module.exports = {
-    title: 'Akebi Guide',
+    head: [
+        [
+            'link',
+            { rel: 'icon', href: 'logo_ico.png' }
+        ]
+    ],
+    title: '',
     description: 'A Easy Guide for Akebi',
     nextLinks: true,
     prevLinks: true,
@@ -13,6 +19,7 @@ module.exports = {
             ],
         },
         displayAllHeaders: true,
+        logo: '/assets/img/akebigc.png',
     }
 }
 // module.exports = {
