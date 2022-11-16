@@ -9,9 +9,10 @@ module.exports = {
                 '',
                 'guide',
                 'gui',
-                'teleports'   
+                'teleports'
             ],
-        }
+        },
+        displayAllHeaders: true,
     }
 }
 // module.exports = {

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage:  "https://i.imgur.com/B8WE1Dl.png"
+heroImage:  https://github.com/Akebi-Guide/Akebi-Guide.github.io/blob/main/docs/img/logo.png?raw=true
 heroText: AkebiGC Guide
 tagline: A tutorial tells you how to use it.
 actionText: Start →

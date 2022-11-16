@@ -1,5 +1,19 @@
 # 用前需知
 
+## 相关链接
+
+[本网页仓库地址：Akebi-Guide/Akebi-Guide.github.io](https://github.com/Akebi-Guide/Akebi-Guide.github.io)
+
+[Release 教程提及文件下载](https://github.com/Akebi-Guide/Akebi-Guide.github.io/releases/tag/Files)
+
+[传送点坐标下载（求个star）](https://github.com/Sam5440/Genshin_Impact_Teleport)
+
+[Akebi-GC· GitHub(DMCA)](https://github.com/Taiga74164/Akebi-GC)
+
+[Taiga / Akebi-GC · GitLab](https://git.crepe.moe/taiga74164/Akebi-GC/-/releases/v1.1.1)
+
+[Discord Link](https://discord.com/invite/XzPfXBH47Y)
+
 ## 注意事项
 
 1.请不要倒卖，此项目为 Github 的开源项目！倒卖开源项目是可耻的！
@@ -12,14 +26,10 @@
 
 5.活动分数不宜太多！绝对不要开Kill Aura（范围死亡）过活动！
 
-## PS
+> 本规范是给又想稳定更久，又想相对多开一些功能的人看的
+> 
 
-> 本规范是给又想稳定更久，又想相对多开一些功能的人看的。
-> Akebi开源项目地址:https://github.com/Taiga74164/Akebi-GC
-> 传送点开源项目地址:
-> Akebi官方Discord:https://discord.gg/XzPfXBH47Y
-
-# 常见问题标准答案
+## 常见问题标准答案
 
 > Q1:有汉化吗？ A1:没有
 >
@@ -64,3 +74,6 @@
 中文教程编写:SDK-China#5338
 
 > 如果有遗漏，请在群内私聊 Sam5440#8543
+
+
+
