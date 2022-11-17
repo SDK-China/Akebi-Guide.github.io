@@ -1,5 +1,15 @@
 # 用前需知
 
+This project should not be used for commercial purposes, only for learning and communication.
+
+Ce projet n'est pas destiné à un usage commercial et est uniquement destiné à l'apprentissage et à l'échange.
+
+このプロジェクトは営利目的ではなく、学習と交流のためにのみ使用されます。
+
+Dieses Projekt ist nicht für den kommerziellen Gebrauch bestimmt und dient ausschließlich dem Lernen und dem Austausch.
+
+本项目不得用于商业用途，仅做学习交流。
+
 ## 相关链接
 
 [本网页仓库地址：Akebi-Guide/Akebi-Guide.github.io](https://github.com/Akebi-Guide/Akebi-Guide.github.io)
@@ -16,7 +26,7 @@
 
 ## 注意事项
 
-1.请不要倒卖，此项目为 Github 的开源项目！倒卖开源项目是可耻的！
+1.请不要倒卖，此项目为 Github 的开源项目！
 
 2.请尽量不要打深渊！深渊开挂封号率高于大世界！
 
@@ -65,15 +75,13 @@
 
 > 按时间排序
 
-发起&传送锚点JSON文件制作:Sam5440#8543
-
 传送锚点JSON后期更新（3.1后):ShinaKaria#9760
 
 传送点英文文档校对: liyuyang007#8048
 
 中文教程编写:SDK-China#5338
 
-> 如果有遗漏，请在群内私聊 Sam5440#8543
+> 如果有遗漏，请提issue
 
 
 
