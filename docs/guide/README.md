@@ -1,5 +1,7 @@
 # 用前需知
 
+> 本教程为亚服，美服，欧服平台的中文用户提供简单的快速入门指导，帮助您更快乐的体验游戏
+
 This project should not be used for commercial purposes, only for learning and communication.
 
 Ce projet n'est pas destiné à un usage commercial et est uniquement destiné à l'apprentissage et à l'échange.
